@@ -74,21 +74,6 @@ Technologies Used
     Styling: CSS/SCSS
     Deployment: Vercel
 
-Installation
-
-    Clone the Repository
-
-    bash
-
-git clone https://github.com/yourusername/book-review.git
-cd book-review
-
-Install Dependencies
-
-bash
-
-npm install
-
 Run the Development Server
 
 bash
